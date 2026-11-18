@@ -1,0 +1,13 @@
+{
+  "version": "2.6.0",
+  "build_number": 1,
+  "release_date": "2026-11-18",
+  "min_supported_version": "2.5.0",
+  "download_url": "https://github.com/workaashiq196/jp_app_releases/releases/download/v2.6.0/JP_Estimate_Update_Package.zip",
+  "changelog": [
+    "Added In-App Auto-Update & Version Information in Settings",
+    "Bundled all Visual C++ x64 runtime DLLs (eliminating MSVCP140.dll errors)",
+    "Enhanced tooling cost minimum rates and auto-calculation",
+    "Zero-Data-Loss PocketBase migration safeguards"
+  ]
+}
