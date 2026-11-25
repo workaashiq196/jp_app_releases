@@ -1,14 +1,14 @@
-{
-  "version": "2.6.1",
+﻿{
+  "version": "2.6.2",
   "build_number": 2,
-  "release_date": "2026-11-23",
+  "release_date": "2026-11-25",
   "min_supported_version": "2.5.0",
   "download_url": "https://github.com/workaashiq196/jp_app_releases/raw/main/JP_Estimate_Update_Package.zip",
   "apk_download_url": "https://github.com/workaashiq196/jp_app_releases/raw/main/jp_estimate_app.apk",
   "changelog": [
-    "Fixed update version synchronization to v2.6.1",
-    "Smart rollback snapshot cleanup (revert button auto-hides when versions match)",
     "One-Click Cross-Platform Automatic Updates (PC, Mobile, Web)",
-    "Seamless PocketBase Schema Migrations (100% Zero Data Loss)"
+    "Seamless PocketBase Schema Migrations (100% Zero Data Loss)",
+    "Bundled Web App static assets directly in PocketBase",
+    "Direct Mobile APK download link and background database sync"
   ]
 }
