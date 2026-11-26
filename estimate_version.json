@@ -1,14 +1,14 @@
 ﻿{
-  "version": "2.6.2",
-  "build_number": 2,
-  "release_date": "2026-11-25",
+  "version": "2.6.3",
+  "build_number": 3,
+  "release_date": "2026-11-26",
   "min_supported_version": "2.5.0",
   "download_url": "https://github.com/workaashiq196/jp_app_releases/raw/main/JP_Estimate_Update_Package.zip",
   "apk_download_url": "https://github.com/workaashiq196/jp_app_releases/raw/main/jp_estimate_app.apk",
   "changelog": [
-    "One-Click Cross-Platform Automatic Updates (PC, Mobile, Web)",
-    "Seamless PocketBase Schema Migrations (100% Zero Data Loss)",
-    "Bundled Web App static assets directly in PocketBase",
-    "Direct Mobile APK download link and background database sync"
+    "Work Ticket and Stock Reduction",
+    "Live Factory Floor Scale & Stock Deduction Workflow",
+    "Automatic PocketBase Schema Migrations (100% Zero Data Loss)",
+    "Cross-Platform Release (Windows PC, Web & Android Mobile)"
   ]
 }
