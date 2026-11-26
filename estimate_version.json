@@ -1,14 +1,14 @@
 ﻿{
-  "version": "2.6.3",
-  "build_number": 3,
-  "release_date": "2026-11-26",
+  "version": "2.6.4",
+  "build_number": 4,
+  "release_date": "2026-11-27",
   "min_supported_version": "2.5.0",
   "download_url": "https://github.com/workaashiq196/jp_app_releases/raw/main/JP_Estimate_Update_Package.zip",
   "apk_download_url": "https://github.com/workaashiq196/jp_app_releases/raw/main/jp_estimate_app.apk",
   "changelog": [
-    "Work Ticket and Stock Reduction",
-    "Live Factory Floor Scale & Stock Deduction Workflow",
-    "Automatic PocketBase Schema Migrations (100% Zero Data Loss)",
-    "Cross-Platform Release (Windows PC, Web & Android Mobile)"
+    "Godown Stock Inventory Management & Film Size Tracking",
+    "Live Factory Production Scale & Roll Deduction Workflow",
+    "Automated Zero-Data-Loss PocketBase Migrations & Field Integrity",
+    "Universal Cross-Platform Release (Windows PC, Web & Android Mobile)"
   ]
 }
